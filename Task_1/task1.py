@@ -4,7 +4,7 @@ import time
 userId = 43642612
 # Тематика
 theme = 'Юмор'
-access_token = '9a5e6d423bc48beb2c516d5fd1541459d64d8d1def31db2ed947ba08998aca25825325dac4cb32d442b7e'
+access_token = '...' # тут был токен
 session = vk.Session(access_token = access_token)
 vk_api = vk.API(session)
 version = '5.00'
